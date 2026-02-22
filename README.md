@@ -1,6 +1,6 @@
 # Espresso
 
-A project for the 2025 CDS and H4I NME hackathon. 
+Won the 2025 CDS and H4I NME hackathon. 
 Contributors:
 Rahul Basak,
 Rohit Vakkalagadda,
